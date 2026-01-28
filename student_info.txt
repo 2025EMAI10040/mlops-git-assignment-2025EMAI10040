@@ -1,0 +1,4 @@
+Name: Sajeev Varghese
+Roll Number: 2025EMAI10040
+Course: DSC524 Designing MLOps for Enterprises
+Institute: IIIT Kottayam
